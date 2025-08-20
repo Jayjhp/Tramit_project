@@ -1,4 +1,4 @@
-# 🌏 여행지와 맛집 정보 공유 및 추천 사이트
+# 여행지와 맛집 정보 공유 및 추천 사이트
 
 <img width="872" height="640" alt="image" src="https://github.com/user-attachments/assets/83a8c56d-76b1-4d27-8f06-0faf6ebd64e7" />
 
